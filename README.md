@@ -1,5 +1,5 @@
 # low_light_image_enhancement
-his project focuses on enhancing images captured in low-light conditions using a deep learning-based approach. We combine the strengths of LeNet for feature extraction and U-Net for image-to-image translation, resulting in a powerful model that improves image brightness, clarity, and detail without introducing artifacts.
+This project focuses on enhancing images captured in low-light conditions using a deep learning-based approach. We combine the strengths of LeNet for feature extraction and U-Net for image-to-image translation, resulting in a powerful model that improves image brightness, clarity, and detail without introducing artifacts.
 
 📌 Key Highlights
 LeNet is used for learning essential features from low-light images.
