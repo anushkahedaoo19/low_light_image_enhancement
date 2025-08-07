@@ -16,11 +16,9 @@ https://www.kaggle.com/datasets/soumikrakshit/lol-dataset
 -U-Net acts as a decoder to reconstruct enhanced images with fine details.
 
 **Technologies Used**
+
 1)Python
-
 2)TensorFlow / Keras
-
 3)OpenCV
-
 4)NumPy, Matplotlib
 
