@@ -6,7 +6,7 @@ LeNet is used for learning essential features from low-light images.
 U-Net architecture is employed for enhancing image quality through pixel-level restoration.
 The model is trained on paired datasets of low-light and normal-light images.
 
-**Dataset Used**
+**Dataset Used**<br>
 We used the LOL (Low-Light) Dataset, which contains paired low-light and normal-light images.
 This dataset helps the model learn to map low-light inputs to well-lit outputs.
 https://www.kaggle.com/datasets/soumikrakshit/lol-dataset
