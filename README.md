@@ -21,4 +21,11 @@ https://www.kaggle.com/datasets/soumikrakshit/lol-dataset<br>
 2)TensorFlow / Keras<br>
 3)OpenCV<br>
 4)NumPy, Matplotlib<br>
+<br>
+Architecture
+![img](https://github.com/user-attachments/assets/86f834ba-6ea5-4e51-b955-f992ea29a08e)
+<br>
+# Output
+![WhatsApp Image 2025-12-12 at 13 38 23_fc059ed7](https://github.com/user-attachments/assets/d308bec5-bb71-4123-9ef9-618867eb1b92)
 
+![WhatsApp Image 2025-12-12 at 13 39 14_fc6eea69](https://github.com/user-attachments/assets/b4dec78e-4474-4bcf-9746-4915a1832257)
